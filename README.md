@@ -41,9 +41,7 @@
 
 <p align="center">
   <!-- 42 Super License -->
-  <a href="https://profile.intra.42.fr/users/HMSTR63">
-    <img src="https://badge42.vercel.app/api/v2/cl1?login=HMSTR63&cursus=21&mode=dark" alt="HMSTR63's 42 Stats" />
-  </a>
+  <img src="https://badge.mediaplus.ma/binary/sojammal" alt="HMSTR63's 42 Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=HMSTR63&show_icons=true&hide_border=true&bg_color=000000&title_color=C0C0C0&icon_color=00D2BE&text_color=FFFFFF" alt="Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMSTR63&layout=compact&hide_border=true&bg_color=000000&title_color=C0C0C0&icon_color=00D2BE&text_color=FFFFFF" alt="Languages" height="165" />
