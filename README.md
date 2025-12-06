@@ -47,6 +47,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HMSTR63&layout=compact&hide_border=true&bg_color=000000&title_color=C0C0C0&icon_color=00D2BE&text_color=FFFFFF" alt="Languages" height="165" />
 </p>
 
+<!-- Snake Game -->
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=HMSTR63&color_snake=00D2BE&color_dots=FFFFFF&bg_color=000000" alt="Snake Game" width="100%" />
+</div>
+
 ---
 
 ### 🛠️ Car Setup (Tech Stack)
@@ -107,6 +112,11 @@
 </div>
 
 <br>
+
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HMSTR63&label=PIT+LANE+VISITORS&color=00D2BE&style=for-the-badge&logo=mercedes" alt="Visitor Count" />
+</p>
 
 > *"You just need to be yourself and you can achieve anything."*
 >
