@@ -58,7 +58,7 @@
 <br>
 
 <!-- Pit Stop / Mechanics GIF -->
-<img src="https://media.giphy.com/media/HuZdFwVqbF83u/giphy.gif" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" alt="F1 Pit Stop" />
+<img src="https://media.tenor.com/videos/21056111/tenor.mp4" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" alt="F1 Pit Stop" />
 
 ---
 
@@ -66,18 +66,18 @@
 
 | Rd | 🏁 Grand Prix (Project) | 🔧 Tech Spec | 🚥 Status |
 | :--: | :--- | :--- | :---: |
-| **01** | **Libft GP** | `C Library` | 🏁 **P1 (Finished - 119/125)** |
-| **02** | **ft_printf Circuit** | `Variadic Functions` | 🏁 **P1 (Finished - 100/125)** |
-| **03** | **Get_Next_Line Ring** | `File I/O` | 🏁 **P1 (Finished - 112/125)** |
+| **01** | [<p align="left">**Libft GP**</p>](https://github.com/HMSTR63/Libft) | `C Library` | 🏁 **P1 (Finished - 119/125)** |
+| **02** | [<p align="left">**ft_printf Circuit**</p>](https://github.com/HMSTR63/ft_printf) | `Variadic Functions` | 🏁 **P1 (Finished - 100/125)** |
+| **03** | [<p align="left">**Get_Next_Line Ring**</p>](https://github.com/HMSTR63/get_next_line) | `File I/O` | 🏁 **P1 (Finished - 112/125)** |
 | **04** | **Born2BeRoot Raceway** | `Virtualization` | 🏁 **P1 (Finished - 125/125)** |
-| **05** | **Push_Swap Speedway** | `Sorting Algorithms` | 🏁 **P1 (Finished - 125/125)** |
-| **06** | **So_Long Street Circuit** | `Graphics (MiniLibX)` | 🏁 **P1 (Finished - 125/125)** |
-| **07** | **Minitalk Motodrom** | `UNIX Signals` | 🏁 **P1 (Finished - 125/125)** |
-| **08** | **Philo E-Prix** | `Threads & Mutexes` | 🏁 **P1 (Finished - 100/125)** |
-| **09** | **Minishell Autodrome** | `Bash Architecture` | 🏁 **P1 (Finished - 101/125)** |
-| **10** | **Cub3d Grand Prix** | `Raycasting Engine` | 🏁 **P1 (Finished - 125/125)** |
+| **05** | [<p align="left">**Push_Swap Speedway**</p>](https://github.com/HMSTR63/Push_swap_42) | `Sorting Algorithms` | 🏁 **P1 (Finished - 125/125)** |
+| **06** | [<p align="left">**So_Long Street Circuit**</p>](https://github.com/HMSTR63/so_long_42) | `Graphics (MiniLibX)` | 🏁 **P1 (Finished - 125/125)** |
+| **07** | [<p align="left">**Minitalk Motodrom**</p>](https://github.com/HMSTR63/Minitalk_42) | `UNIX Signals` | 🏁 **P1 (Finished - 125/125)** |
+| **08** | [<p align="left">**Philo E-Prix**</p>](https://github.com/HMSTR63/philo_42) | `Threads & Mutexes` | 🏁 **P1 (Finished - 100/125)** |
+| **09** | [<p align="left">**Minishell Autodrome**</p>](https://github.com/HMSTR63/Shell_42) | `Bash Architecture` | 🏁 **P1 (Finished - 101/125)** |
+| **10** | [<p align="left">**Cub3d Grand Prix**</p>](https://github.com/HMSTR63/cub3D_42) | `Raycasting Engine` | 🏁 **P1 (Finished - 125/125)** |
 | **11** | **NetPractice Circuit** | `Networking` | 🏁 **P1 (Finished - 100/100)** |
-| **12** | **CPP 00-04 Series** | `C++ Basics` | 🏁 **P1 (Finished - 100/100)** |
+| **12** | [<p align="left">**CPP 00-04 Series**</p>](https://github.com/HMSTR63/CPP-Modules) | `C++ Basics` | 🏁 **P1 (Finished - 100/100)** |
 | **13** | **Inception International** | `Docker Compose` | 🟡 **Safety Car (To Do)** |
 | **14** | **CPP 05-09 Championship** | `Advanced C++` | 🟡 **Safety Car (To Do)** |
 | **15** | **IRC Server Track** | `Sockets / TCP/IP` | 🔴 **Red Flag (Upcoming)** |
@@ -98,7 +98,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/xT9IgkKL1SZRktNnjy/giphy.gif" width="100%" style="border-radius: 10px;" alt="Lewis Hamilton Celebration" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRlZW5pYjU5Y3FmNWd1ZzMxMjZxMm4xZWhvdHNtaDVjN2s5a2NtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyGKN2aTmI4fwgVvoO/giphy.gif" width="100%" style="border-radius: 10px;" alt="Lewis Hamilton Celebration" />
 
 <br>
 
