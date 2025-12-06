@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=00D2BE&center=true&vCenter=true&width=600&lines=Welcome+to+the+Paddock+of+HMSTR;Driver+No.+63+%7C+1337+Khouribga;Mercedes+AMG+Petronas+Fan;Still+I+Rise" alt="Typing SVG" /></a>
 
 <!-- Main Mercedes F1 GIF -->
-<img src="https://i.pinimg.com/originals/12/98/a4/1298a41def2adb0b981eddf8ab491668.gif" width="100%" style="border-radius: 10px;" alt="Mercedes F1 Car" />
+<img src="[https://i.pinimg.com/originals/12/98/a4/1298a41def2adb0b981eddf8ab491668.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR6dzdneWZ3dmhncnpidmduNmRkcXFtNjVxMzR1Znp6a25lb2VsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqyWUxGnDbLaxpngr5/giphy.gif)" width="100%" style="border-radius: 10px;" alt="Mercedes F1 Car" />
 
 <br/>
 
