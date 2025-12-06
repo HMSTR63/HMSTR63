@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=00D2BE&center=true&vCenter=true&width=600&lines=Welcome+to+the+Paddock+of+HMSTR;Driver+No.+63+%7C+1337+Khouribga;Mercedes+AMG+Petronas+Fan;Still+I+Rise" alt="Typing SVG" /></a>
 
 <!-- Main Mercedes F1 GIF -->
-<img src="https://media.giphy.com/media/3o7qE1YN7aQfIqi1Ck/giphy.gif" width="100%" style="border-radius: 10px;" alt="Mercedes F1 Car" />
+<img src="[https://media.giphy.com/media/3o7qE1YN7aQfIqi1Ck/giphy.gif](https://in.pinterest.com/pin/driving-formula-1-gif-by-mercedesamg-petronas-formula-one-team-find-share-on-giphy-in-2025--338473728265031320/)" width="100%" style="border-radius: 10px;" alt="Mercedes F1 Car" />
 
 <br/>
 
@@ -43,8 +43,8 @@
   <!-- 42 Super License -->
   <img src="https://badge.mediaplus.ma/binary/sojammal" alt="HMSTR63's 42 Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HMSTR63&show_icons=true&hide_border=true&bg_color=000000&title_color=C0C0C0&icon_color=00D2BE&text_color=FFFFFF" alt="Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMSTR63&layout=compact&hide_border=true&bg_color=000000&title_color=C0C0C0&icon_color=00D2BE&text_color=FFFFFF" alt="Languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HMSTR63&show_icons=true&hide_border=true&bg_color=000000&title_color=C0C0C0&icon_color=00D2BE&text_color=FFFFFF" alt="Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HMSTR63&layout=compact&hide_border=true&bg_color=000000&title_color=C0C0C0&icon_color=00D2BE&text_color=FFFFFF" alt="Languages" height="165" />
 </p>
 
 ---
@@ -105,10 +105,6 @@
 > *"You just need to be yourself and you can achieve anything."*
 >
 > — **Lewis Hamilton**
-
-> *"Win together, lose together."*
->
-> — **Mercedes AMG Petronas**
 
 > *"Every dream needs a team."*
 >
