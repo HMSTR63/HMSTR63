@@ -60,7 +60,7 @@
 <!-- Pit Stop / Mechanics GIF -->
 <div align="center">
   <a href="https://tenor.com/view/f1-pit-stop-mercedes-pits-gif-21056111">
-    <img src="https://media.giphy.com/media/HPZKgoc65LUMhIVo6V/giphy.gif" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" alt="F1 Pit Stop" />
+    <img src="https://media.giphy.com/media/HPZKgoc65LUMhIVo6V/giphy.gif" width="100%" style="border-radius: 10px;" alt="F1 Pit Stop" />
   </a>
 </div>
 
