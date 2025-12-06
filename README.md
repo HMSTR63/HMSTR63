@@ -102,7 +102,7 @@
 
 <br><br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRlZW5pYjU5Y3FmNWd1ZzMxMjZxMm4xZWhvdHNtaDVjN2s5a2NtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyGKN2aTmI4fwgVvoO/giphy.gif" width="100%" style="border-radius: 10px;" alt="Lewis Hamilton Celebration" />
+<img src="https://media.giphy.com/media/dyGKN2aTmI4fwgVvoO/giphy.gif" width="100%" style="border-radius: 10px;" alt="Lewis Hamilton Celebration" />
 
 <br>
 
