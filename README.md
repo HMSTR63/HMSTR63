@@ -112,9 +112,7 @@
 >
 > — **Lewis Hamilton**
 
-> *"Win together, lose together."*
->
-> — **Mercedes AMG Petronas**
+
 
 > *"Every dream needs a team."*
 >
