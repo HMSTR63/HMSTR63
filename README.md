@@ -51,9 +51,7 @@
 
 ### 🛠️ Car Setup (Tech Stack)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,git,github,vscode,vim&perline=9" />
-</div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR6dzdneWZ3dmhncnpidmduNmRkcXFtNjVxMzR1Znp6a25lb2VsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqyWUxGnDbLaxpngr5/giphy.gif" width="100%" style="border: 3px solid #00D2BE; border-radius: 10px; box-shadow: 0 0 15px #00D2BE;" alt="Mercedes F1 Car" />
 
 <br>
 
