@@ -58,7 +58,11 @@
 <br>
 
 <!-- Pit Stop / Mechanics GIF -->
-<img src="https://media.tenor.com/videos/21056111/tenor.mp4" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" alt="F1 Pit Stop" />
+<div align="center">
+  <a href="https://tenor.com/view/f1-pit-stop-mercedes-pits-gif-21056111">
+    <img src="https://media.tenor.com/images/4919108471822060b8157400242d89be/tenor.gif" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" alt="F1 Pit Stop" />
+  </a>
+</div>
 
 ---
 
