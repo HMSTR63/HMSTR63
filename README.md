@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=00D2BE&center=true&vCenter=true&width=600&lines=Welcome+to+the+Paddock+of+HMSTR;Driver+No.+63+%7C+1337+Khouribga;Mercedes+AMG+Petronas+Fan;Still+I+Rise" alt="Typing SVG" /></a>
 
 <!-- Main Mercedes F1 GIF -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR6dzdneWZ3dmhncnpidmduNmRkcXFtNjVxMzR1Znp6a25lb2VsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqyWUxGnDbLaxpngr5/giphy.gif" width="100%" style="border-radius: 10px;" alt="Mercedes F1 Car" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR6dzdneWZ3dmhncnpidmduNmRkcXFtNjVxMzR1Znp6a25lb2VsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqyWUxGnDbLaxpngr5/giphy.gif" width="100%" style="border: 3px solid #00D2BE; border-radius: 10px; box-shadow: 0 0 15px #00D2BE;" alt="Mercedes F1 Car" />
 
 <br/>
 
@@ -66,18 +66,18 @@
 
 | Rd | 🏁 Grand Prix (Project) | 🔧 Tech Spec | 🚥 Status |
 | :--: | :--- | :--- | :---: |
-| **01** | **Libft GP** | `C Library` | 🏁 **P1 (Finished)** |
-| **02** | **ft_printf Circuit** | `Variadic Functions` | 🏁 **P1 (Finished)** |
-| **03** | **Get_Next_Line Ring** | `File I/O` | 🏁 **P1 (Finished)** |
-| **04** | **Born2BeRoot Raceway** | `Virtualization` | 🏁 **P1 (Finished)** |
-| **05** | **Push_Swap Speedway** | `Sorting Algorithms` | 🏁 **P1 (Finished)** |
-| **06** | **So_Long Street Circuit** | `Graphics (MiniLibX)` | 🏁 **P1 (Finished)** |
-| **07** | **Minitalk Motodrom** | `UNIX Signals` | 🏁 **P1 (Finished)** |
-| **08** | **Philo E-Prix** | `Threads & Mutexes` | 🏁 **P1 (Finished)** |
-| **09** | **Minishell Autodrome** | `Bash Architecture` | 🏁 **P1 (Finished)** |
-| **10** | **Cub3d Grand Prix** | `Raycasting Engine` | 🏁 **P1 (Finished)** |
-| **11** | **NetPractice Circuit** | `Networking` | 🏁 **P1 (Finished)** |
-| **12** | **CPP 00-04 Series** | `C++ Basics` | 🏁 **P1 (Finished)** |
+| **01** | **Libft GP** | `C Library` | 🏁 **P1 (Finished - 119/125)** |
+| **02** | **ft_printf Circuit** | `Variadic Functions` | 🏁 **P1 (Finished - 100/125)** |
+| **03** | **Get_Next_Line Ring** | `File I/O` | 🏁 **P1 (Finished - 112/125)** |
+| **04** | **Born2BeRoot Raceway** | `Virtualization` | 🏁 **P1 (Finished - 125/125)** |
+| **05** | **Push_Swap Speedway** | `Sorting Algorithms` | 🏁 **P1 (Finished - 125/125)** |
+| **06** | **So_Long Street Circuit** | `Graphics (MiniLibX)` | 🏁 **P1 (Finished - 125/125)** |
+| **07** | **Minitalk Motodrom** | `UNIX Signals` | 🏁 **P1 (Finished - 125/125)** |
+| **08** | **Philo E-Prix** | `Threads & Mutexes` | 🏁 **P1 (Finished - 100/125)** |
+| **09** | **Minishell Autodrome** | `Bash Architecture` | 🏁 **P1 (Finished - 101/125)** |
+| **10** | **Cub3d Grand Prix** | `Raycasting Engine` | 🏁 **P1 (Finished - 125/125)** |
+| **11** | **NetPractice Circuit** | `Networking` | 🏁 **P1 (Finished - 100/100)** |
+| **12** | **CPP 00-04 Series** | `C++ Basics` | 🏁 **P1 (Finished - 100/100)** |
 | **13** | **Inception International** | `Docker Compose` | 🟡 **Safety Car (To Do)** |
 | **14** | **CPP 05-09 Championship** | `Advanced C++` | 🟡 **Safety Car (To Do)** |
 | **15** | **IRC Server Track** | `Sockets / TCP/IP` | 🔴 **Red Flag (Upcoming)** |
@@ -105,6 +105,10 @@
 > *"You just need to be yourself and you can achieve anything."*
 >
 > — **Lewis Hamilton**
+
+> *"Win together, lose together."*
+>
+> — **Mercedes AMG Petronas**
 
 > *"Every dream needs a team."*
 >
