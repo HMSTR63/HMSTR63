@@ -47,6 +47,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HMSTR63&layout=compact&hide_border=true&bg_color=000000&title_color=C0C0C0&icon_color=00D2BE&text_color=FFFFFF" alt="Languages" height="165" />
 </p>
 
+<!-- Lap Consistency (Streak Stats) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMSTR63&theme=dark&hide_border=true&background=000000&ring=00D2BE&fire=00D2BE&currStreakLabel=00D2BE&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="Lap Consistency" width="100%" />
+</p>
+
 <!-- Coding Telemetry (Activity Graph) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HMSTR63&bg_color=000000&color=C0C0C0&line=00D2BE&point=FFFFFF&area=true&hide_border=true" alt="Coding Telemetry" width="100%" />
